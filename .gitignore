@@ -1,0 +1,10 @@
+
+web_demo/.firebaserc
+*.jpg
+dataset
+face_detector
+images
+*model
+plot
+__pycache__
+*ipynb*
